@@ -25,6 +25,13 @@ Full technical specifications, an itemized **$32,000** budget (including freight
 
 Several high-fit regional and corporate funders—including the **Employees Community Fund of Boeing Puget Sound**, **The Norcliffe Foundation**, **Boeing Corporate Citizenship**, **U.S. Bank Foundation**, **KeyBank Foundation**, **Community Foundation of South Puget Sound**, and the **Puget Sound Energy Foundation**—explicitly require or prioritize **501(c)(3) nonprofit applicants** for higher-education equipment grants.
 
+| Funder | Type & Geographic Focus | Typical Award Range | 501(c)(3) Eligibility & Strategic Fit |
+| --- | --- | --- | --- |
+| **Employees Community Fund (ECF) of Boeing Puget Sound** | Employee-Pooled Fund (Puget Sound Region, WA) | Up to $50,000 (*Supporting Grants*) | Requires 501(c)(3) public charity status (3+ years); funds equipment and IT infrastructure upgrades providing direct student/client benefit. |
+| **The Norcliffe Foundation** | Private Family Foundation (Seattle / 11 Puget Sound Counties, WA) | $10,000 – $75,000+ | Accepts applications **year-round on a rolling basis** from 501(c)(3) educational and scientific organizations for capital and lab equipment. |
+| **Boeing Corporate Citizenship** | Corporate Philanthropy (Washington / National) | $15,000 – $100,000+ | Requires public colleges to apply via an affiliated **501(c)(3) foundation**; prioritizes higher-education STEM, AI literacy, and workforce readiness. |
+| **U.S. Bank Foundation** (*Community Possible – Work*) | Corporate Foundation (Western Washington) | $10,000 – $90,000 | Awards workforce and technical training equipment grants directly to **501(c)(3) college foundations** expanding career-connected education. |
+
 In alignment with **Evergreen’s Grants Policy** and **College–Foundation** procedures, this proposal is structured for **The Evergreen State College Foundation** (501(c)(3), EIN `91-0981488`) to serve as the direct grant recipient and equipment purchaser, subsequently transferring the completed hardware to Academic Affairs for the **Computer Applications Lab for Scientific Computing** via a **Gift-in-Kind** agreement.
 
 ---
