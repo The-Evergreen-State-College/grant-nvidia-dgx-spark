@@ -1,10 +1,10 @@
 ## Grant Proposal Summary: Desktop Supercomputing for Interdisciplinary STEM & Local AI Workflows
 
 * **Applicant & Fiscal Agent:** The Evergreen State College Foundation (501(c)(3) Public Charity, EIN `13-1837418`)
-* **Primary Beneficiary Unit:** Computer Applications Lab for Scientific Computing, Academic Affairs, The Evergreen State College (Olympia, WA)
+* **Primary Beneficiary Unit:** Computer Applications Lab for Scientific Computing, Academics, The Evergreen State College (Olympia, WA)
 * **Equipment Requested:** One (1) 4-Node **NVIDIA DGX Spark HPC Developer Kit**
 * **Total Funding Request:** **$32,000**
-* **Procurement Pathway:** Direct Foundation purchase and Gift-in-Kind equipment transfer to Academic Affairs
+* **Procurement Pathway:** Direct Foundation purchase and Gift-in-Kind equipment transfer to Academics
 
 ---
 
@@ -66,7 +66,7 @@ The requested **NVIDIA DGX Spark HPC Developer Kit** provides data-center-grade 
 
 ### Measurable Student & Regional Workforce Outcomes
 
-Within the first 12 months of installation, the NVIDIA DGX Spark HPC Developer Kit will deliver quantifiable educational and workforce impact across the South Puget Sound region:
+Within the first 12 months of installation, the NVIDIA DGX Spark HPC Developer Kit will deliver quantifiable educational impact:
 
 1. **Direct Student Access:** Serve **120 to 160 undergraduate and graduate students annually** across interdisciplinary STEM programs in computer science, environmental studies, chemistry, biology, and data science.
 2. **Open-Source Curriculum & Capstone Output:** Support at least **six interdisciplinary academic programs** and **25+ senior capstone and faculty-mentored research projects** per academic year, with student-developed workflows and documentation published openly.
